@@ -4,7 +4,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgxSpinnerModule } from 'ngx-spinner';
 import { AppComponent } from './app.component';
 
-
+//
 @NgModule({
   declarations: [
     AppComponent
